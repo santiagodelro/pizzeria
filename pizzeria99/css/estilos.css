@@ -1,0 +1,95 @@
+#listado{
+	margin-top:30px;
+}
+
+
+#tabla_cliente{
+	margin-top:25px;
+}
+
+
+.button{
+	margin-top:4px;
+}
+
+#box_cliente{
+	margin-top:25px;
+}
+
+
+#form_cliente{
+	margin-top:40px;
+
+}
+
+#seccion_buscador{
+	margin-top:10px;
+
+}
+
+
+#container_ventas{
+	margin-top:50px;
+
+}
+
+#container_compras{
+	margin-top:10px;
+
+}
+
+#form_proveedor{
+	margin-top:40px;
+
+}
+
+
+
+#form_categoria{
+	margin-top:55px;
+
+}
+
+#seccion{
+	margin-top: 1px;
+	position: relative;
+	left: -15px;
+}
+
+.boton_insumo{
+	margin-top: 7px;
+	
+}
+
+
+#listado_producto{
+	margin-top:77px;
+	position: relative;
+	right: -80px;
+}
+
+#form_producto{
+	margin-top:40px;
+
+}
+
+
+.selected{
+	cursor: pointer;
+}
+.selected:hover{
+	background-color: #0585C0;
+	color: white;
+}
+.seleccionada{
+	background-color: #0585C0;
+	color: white;
+}
+
+#box_receta{
+	margin-top:25px;
+}
+
+#box_factura{
+	margin-top:40px;
+}
